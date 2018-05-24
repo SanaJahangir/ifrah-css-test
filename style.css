@@ -1,0 +1,143 @@
+.navbar-brand-1{
+	color: #2176ff;
+	margin: 10px;
+	justify-content: center;
+}
+
+.btn btn-outline-info{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.navbar-brand{
+	justify-content: flex-start;
+}
+
+article{
+	display: grid;
+    grid-template-columns: 21em 21em 21em;
+    grid-template-rows: 10em 10em 10em;
+    grid-gap: 32px;
+    color: white;
+    margin: 100px;
+}
+
+article > div{
+	padding: 20px;
+	height: 170px;
+	width: 344px;
+	padding: 30px;
+}
+
+article > div:nth-child(1){
+    background-color: #ff6d56;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(2){
+    background-color: #2176ff;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(3){
+    background-color: #fbc227;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(4){
+    background-color: #3ec446;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(5){
+    background-color: #ea3a3a;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(6){
+    background-color: #42cdb2;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(7){
+    background-color: #2176ff;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(8){
+    background-color: #ff6d56;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(9){
+    background-color: #fa99b4;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(10){
+    background-color: #ea3a3a;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(11){
+    background-color: #42cdb2;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(12){
+    background-color: #3ec446;
+    color: white;
+    padding-left: 16px;
+}
+
+article > div:nth-child(13){
+    background-color: #42cdb2;
+    color: white;
+    padding-left: 16px;
+    margin-left: 195px;
+}
+
+article > div:nth-child(14){
+    background-color: #2176ff;
+    color: white;
+    padding-left: 16px;
+    margin-left: 195px;
+}
+
+footer{
+    background-color: #48545d;
+	padding: 60px;
+	display:flex;
+	color: white;
+	position: relative;
+	top: 500px;
+	justify-content: space-around;
+}
+
+a{
+	display: flex;
+	align-items: center;
+}
+
+article > div:hover{
+	background-color: #21303b;
+}
+
+footer > a{
+	margin: 16px;
+}
+
+
+
+
